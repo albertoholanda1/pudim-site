@@ -21,7 +21,7 @@ O objetivo do projeto foi criar uma página web básica utilizando HTML5 e CSS3,
 
 ## Site publicado
 
-(AQUI VOCÊ VAI COLOCAR O LINK DO NETLIFY)
+https://pudim-alberto.netlify.app/
 
 ## Como executar
 
